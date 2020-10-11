@@ -1,0 +1,116 @@
+0|Home-kitchen
+1|living room
+2|kitchen
+3|Kitchen
+4|YMCA
+5|Yard
+6|Shower
+7|Yard
+8|Publix
+9|Kitchen prepping dinner
+10|Outside
+11|bathroom
+12|Backyard
+13|Residential road near neighborhood
+14|Bedroom
+15|Outside
+16|Bedroom
+17|Brain Health Center
+18|walking into bedroom
+19|back porch
+20|Bathroom
+21|bedroom
+22|bedroom
+23|bathroom
+24|living room
+25|bathroom
+26|bathroom
+27|kitchen
+28|living room
+29|Indoor
+30|Outdoor
+31|Indoor, bathroom
+32|Outdoor
+33|Indoor, stairs
+34|bedroom
+35|Outside
+36|Parking lot of hotel
+37|My garage.
+38|At home in Guest bedroom
+39|Closet in Master bedroom
+40|Outside
+41|in my bedroom.
+42|At home in the living room.
+43|In the kitchen
+44|Halfway between the living room in the kitchen
+45|kitchen
+46|Garage
+47|By my laundry room
+48|The steps
+49|my bathroom
+50|in my hall way
+51|kohl's dressing room
+52|kitchen
+53|I fell into the laundry room.
+54|In the kitchen by the laundry room where I always fall.
+55|The kitchen by the back door.
+56|In the kitchen
+57|Home
+58|Kitchen
+59|Outside
+60|Kitchen
+61|Outside
+62|Daughter's kitchen
+63|outside
+64|gym
+65|Kitchen
+66|gym
+67|gym-outdoor pickleball court
+68|kitchen
+69|home
+70|home
+71|gym
+72|gym
+73|gym
+74|Dining Room
+75|Outside
+76|coming in from walking at the kitchen door
+77|Sister's garden
+78|in our bedroom.
+79|sitting at a table in our sun room
+80|At home in our sitting room/library.
+81|At home in our master bedroom.
+82|Outside standing in our driveway.
+83|I was in our master closed putting away my laundry.
+84|I was in my Grandsons' bedroom, helping them get ready for bed.
+85|In my house, walking from the front door to the master bedroom.
+86|in our walk-in closet.
+87|walking in our hallway.
+88|At home. I was going to go for a walk outside and was going down the hallway to our bedroom to get my cane.
+89|Fox theatre
+90|parking garage
+91|unknown
+92|unknown
+93|Home
+94|Bedroom
+95|in bed.
+96|On a pine straw covered slope in our front yard
+97|Standing on the slope of my back yard beneath an oak tree
+98|in the equipment room in our basement
+99|On a ski run in Crested Butte, CO
+100|On a ski run in Crested Butte, CO
+101|On a ski run in Crested Butte, CO
+102|On a flight of stairs
+103|outside
+104|bedroom
+105|Outside
+106|home
+107|hotel-outside patio
+108|bedroom
+109|sister's bedroom
+110|sister's family room
+111|outside
+112|hotel bathroom
+113|home
+114|Indian Trail - Chattahoochee River
+115|Home, in dining room.

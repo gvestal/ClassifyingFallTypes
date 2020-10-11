@@ -1,0 +1,438 @@
+88|MMI|0.46|At home|C4534363|[fndg]|"At home"-text-0-"At home"-IN-0|text|0/7|
+88|MMI|0.46|CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP|C0006856|[medd]|"Cane"-text-28-"cane"-NN-0|text|102/4|
+88|MMI|0.46|Cane - plant part|C2700631|[plnt]|"Cane"-text-28-"cane"-NN-0|text|102/4|
+88|MMI|0.46|Cane Usually Used|C4321238|[fndg]|"Cane"-text-28-"cane"-NN-0|text|102/4|
+88|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-2-"outside"-IN-0|text|38/7|
+88|MMI|0.46|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-0-"for"-IN-0|text|27/3|
+88|MMI|0.46|Preposition For|C0521125|[qlco]|"For"-text-0-"for"-IN-0|text|27/3|
+88|MMI|0.46|WWOX gene|C1421525|[gngm]|"FOR"-text-0-"for"-IN-0|text|27/3|
+88|MMI|0.46|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-0-"for"-IN-0|text|27/3|
+88|MMI|0.46|Walking (activity)|C0080331|[dora]|"Walk"-text-0-"walk"-NN-0|text|33/4|
+88|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-20-"bedroom"-NN-0|text|84/7|
+89|MMI|4.60|Foxes|C0016633|[mamm]|"fox"-text-0-"Fox"-NNP-0|text|0/3|B01.050.150.900.649.313.750.250.216.250
+89|MMI|0.46|Fox antigen|C1446498|[imft]|"Fox"-text-0-"Fox"-NNP-0|text|0/3|
+89|MMI|0.46|Theater building|C0475307|[mnob]|"theatre"-text-0-"theatre"-NN-0|text|4/7|
+89|MMI|0.46|Theatre|C0876906|[inpr]|"Theatre"-text-0-"theatre"-NN-0|text|4/7|
+110|MMI|3.22|Family|C0015576|[famg]|"Family"-text-0-"family"-NN-0|text|9/6|I01.880.853.150;F01.829.263
+110|MMI|1.84|Sister|C0337514|[famg]|"Sister"-text-0-"sister's"-NN-0|text|0/8|x.x.x.x
+110|MMI|0.46|Coverage level - Family|C3244301|[inpr]|"Family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Entity Name Part Type - family|C1546847|[idcn]|"family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Family (taxonomic)|C1704727|[cnce]|"Family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Family Collection|C2700055|[clas]|"Family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Last Name|C1301584|[inpr]|"family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Living Arrangement - Family|C1563343|[idcn]|"Family"-text-0-"family"-NN-0|text|9/6|
+110|MMI|0.46|Relationship - Sister|C1546515|[cnce]|"Sister"-text-0-"sister's"-NN-0|text|0/8|
+110|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+110|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+110|MMI|0.46|Sister - courtesy title|C1704647|[cnce]|"Sister"-text-0-"sister's"-NN-0|text|0/8|
+111|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"outside"-IN-0|text|0/7|
+112|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|6/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+112|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|6/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+112|MMI|0.46|hotel|C0442514|[mnob]|"hotel"-text-0-"hotel"-NN-0|text|0/5|
+113|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"home"-NN-0|text|0/4|
+113|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+113|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"home"-NN-0|text|0/4|
+113|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+113|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"home"-NN-0|text|0/4|
+113|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"home"-NN-0|text|0/4|
+114|MMI|7.83|TNF-related apoptosis-inducing ligand|C0385242|[bacs, aapp]|"TRAIL"-text-0-"Trail"-NNP-0|text|7/5|D12.776.467.374.750.625;D12.644.276.374.750.625;D23.529.374.750.625
+114|MMI|5.53|Rivers|C0337050|[npop]|"River"-text-0-"River"-NNP-0|text|29/5|G01.311.750;N06.230.232.650;G16.500.275.280.650
+114|MMI|1.84|TNFSF10 protein, human|C1143949|[bacs, aapp]|"TRAIL"-text-0-"Trail"-NNP-0|text|7/5|x.x.x.x
+114|MMI|0.46|Asian Indian|C1524069|[popg]|"Indian"-text-0-"Indian"-JJ-0|text|0/6|
+114|MMI|0.46|RiverYuman language|C1692882|[lang]|"River"-text-0-"River"-NNP-0|text|29/5|
+114|MMI|0.46|TNFSF10 gene|C1336646|[gngm]|"TRAIL"-text-0-"Trail"-NNP-0|text|7/5|
+114|MMI|0.46|TNFSF10 wt Allele|C1705952|[gngm]|"TRAIL"-text-0-"Trail"-NNP-0|text|7/5|
+115|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+115|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+115|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+115|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+115|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+115|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+115|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+115|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"Home"-NNP-0|text|0/4|
+90|MMI|0.46|Parking|C4683689|[geoa]|"Parking"-text-0-"parking"-NN-0|text|0/7|
+90|MMI|0.46|garage|C0442640|[mnob]|"garage"-text-0-"garage"-NN-0|text|8/6|
+91|MMI|0.46|Device Status Unkown|C5203193|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Marital Status - Unknown|C1549115|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown|C0439673|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Administrative Gender|C1549105|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Allergy Severity|C1548340|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - CWE statuses|C1556130|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Contact Role|C1556137|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Container status|C1556131|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Employment Status|C1556123|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Escort Required|C1556126|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Ethnic Group|C1549625|[popg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Event Expected|C1556134|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Event reason|C1556121|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Expanded yes/no indicator|C1556133|[fndg]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - HL7 update mode|C3244285|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Immunization Registry Status|C1556132|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Job Status|C1556128|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Living Arrangement|C1556124|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Living Dependency|C1556136|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Living Will Code|C1548543|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Notify Clergy Code|C1549064|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Organ Donor Code|C1548550|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Patient Class|C1556135|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Patient Condition Code|C1547312|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Patient Outcome|C1556127|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Patient_s Relationship to Insured|C1556129|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Precaution Code|C1547306|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Production Class Code|C1547283|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Recreational Drug Use Code|C1547294|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Relationship|C1556122|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Religion|C1556120|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Special Program Code|C1546837|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Transport Arranged|C1556125|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - Vaccines administered|C1548502|[imft, phsu]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - mode of arrival code|C1561529|[ftcn]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown - publishing section|C3244284|[inpr]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Data Entry Method|C5202860|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Dosage Form Category|C4721936|[bodm]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown GENC|C4050014|[geoa]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Mechanism of Action|C4724170|[ftcn]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Publicity Code|C1546841|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Route of Drug Administration|C1521803|[ftcn]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|Unknown Transformation|C4724171|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|unknown - NullFlavor|C1609613|[idcn]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+91|MMI|0.46|unknown vaccine or immune globulin|C3541433|[imft, aapp]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Device Status Unkown|C5203193|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Marital Status - Unknown|C1549115|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown|C0439673|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Administrative Gender|C1549105|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Allergy Severity|C1548340|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - CWE statuses|C1556130|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Contact Role|C1556137|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Container status|C1556131|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Employment Status|C1556123|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Escort Required|C1556126|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Ethnic Group|C1549625|[popg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Event Expected|C1556134|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Event reason|C1556121|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Expanded yes/no indicator|C1556133|[fndg]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - HL7 update mode|C3244285|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Immunization Registry Status|C1556132|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Job Status|C1556128|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Living Arrangement|C1556124|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Living Dependency|C1556136|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Living Will Code|C1548543|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Notify Clergy Code|C1549064|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Organ Donor Code|C1548550|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Patient Class|C1556135|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Patient Condition Code|C1547312|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Patient Outcome|C1556127|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Patient_s Relationship to Insured|C1556129|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Precaution Code|C1547306|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Production Class Code|C1547283|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Recreational Drug Use Code|C1547294|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Relationship|C1556122|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Religion|C1556120|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Special Program Code|C1546837|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Transport Arranged|C1556125|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - Vaccines administered|C1548502|[imft, phsu]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - mode of arrival code|C1561529|[ftcn]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown - publishing section|C3244284|[inpr]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Data Entry Method|C5202860|[fndg]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Dosage Form Category|C4721936|[bodm]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown GENC|C4050014|[geoa]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Mechanism of Action|C4724170|[ftcn]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Publicity Code|C1546841|[inpr]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Route of Drug Administration|C1521803|[ftcn]|"UNKNOWN"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|Unknown Transformation|C4724171|[qlco]|"Unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|unknown - NullFlavor|C1609613|[idcn]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+92|MMI|0.46|unknown vaccine or immune globulin|C3541433|[imft, aapp]|"unknown"-text-0-"unknown"-NN-0|text|0/7|
+93|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"Home"-NN-0|text|0/4|
+93|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+93|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"Home"-NN-0|text|0/4|
+93|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+93|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"Home"-NN-0|text|0/4|
+93|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"Home"-NN-0|text|0/4|
+94|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"Bedroom"-NN-0|text|0/7|
+95|MMI|1.84|BORNHOLM EYE DISEASE|C3159311|[dsyn]|"BED"-text-0-"bed"-NN-0|text|3/3|x.x.x.x
+95|MMI|1.38|Beds|C0004916|[mnob]|"Bed"-text-0-"bed"-NN-0|text|3/3|E07.325.220
+95|MMI|0.46|Bachelor of Education|C2346952|[inpr]|"BEd"-text-0-"bed"-NN-0|text|3/3|
+95|MMI|0.46|Patient Location - Bed|C1547114|[spco]|"Bed"-text-0-"bed"-NN-0|text|3/3|
+96|MMI|0.46|Anterior|C0205094|[spco]|"front"-text-2-"front"-NN-0|text|37/5|
+96|MMI|0.46|Pine, Bach Flower Essence|C0885001|[phsu]|"pine"-text-0-"pine"-NN-0|text|5/4|
+96|MMI|0.46|Pinus <genus>|C0330186|[plnt]|"Pine"-text-0-"pine"-NN-0|text|5/4|
+96|MMI|0.46|Slope|C0807955|[qnco]|"Slope"-text-0-"slope"-NN-0|text|24/5|
+96|MMI|0.46|Straw Dosing Unit|C4760871|[qnco]|"Straw"-text-0-"straw"-NN-0|text|10/5|
+96|MMI|0.46|Straw package type|C4722594|[medd]|"Straw"-text-0-"straw"-NN-0|text|10/5|
+96|MMI|0.46|Survey Yard|C2348617|[qnco]|"yard"-text-4-"yard"-NN-0|text|43/4|
+96|MMI|0.46|Yard British|C2349166|[qnco]|"yard"-text-4-"yard"-NN-0|text|43/4|
+96|MMI|0.46|pine bark extract|C0872909|[orch, phsu]|"pine"-text-0-"pine"-NN-0|text|5/4|
+96|MMI|0.46|yard (length)|C0439205|[qnco]|"Yard"-text-4-"yard"-NN-0|text|43/4|
+97|MMI|1.84|Oak Tree|C0950076|[plnt]|"Oak Tree"-text-8-"oak tree"-NN-0|text|49/8|x.x.x.x
+97|MMI|1.38|Back|C0004600|[blor]|"Back"-text-0-"back"-NN-0|text|28/4|A01.923.176
+97|MMI|0.46|Back structure, including back of neck|C0460009|[blor]|"Back"-text-0-"back"-NN-0|text|28/4|
+97|MMI|0.46|Dorsal|C0205095|[spco]|"Back"-text-0-"back"-NN-0|text|28/4|
+97|MMI|0.46|Slope|C0807955|[qnco]|"Slope"-text-0-"slope"-NN-0|text|16/5|
+97|MMI|0.46|Survey Yard|C2348617|[qnco]|"yard"-text-0-"yard"-NN-0|text|33/4|
+97|MMI|0.46|Yard British|C2349166|[qnco]|"yard"-text-0-"yard"-NN-0|text|33/4|
+97|MMI|0.46|yard (length)|C0439205|[qnco]|"Yard"-text-0-"yard"-NN-0|text|33/4|
+10|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+98|MMI|3.68|Equipment|C0014672|[mnob]|"Equipment"-text-0-"equipment"-NN-0|text|7/9|x.x.x.x;x.x.x.x
+98|MMI|0.46|Basement|C1979853|[tisu]|"Basement"-text-0-"basement"-NN-0|text|29/8|
+98|MMI|0.46|Diagnostic, Therapeutic, and Research Equipment|C1523994|[mnob]|"Equipment"-text-0-"equipment"-NN-0|text|7/9|
+98|MMI|0.46|Equipment used|C0220824|[mnob]|"equipment"-text-0-"equipment"-NN-0|text|7/9|
+98|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|17/4|
+98|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|17/4|
+98|MMI|0.46|Scientific Equipment|C2827396|[mnob]|"Equipment"-text-0-"equipment"-NN-0|text|7/9|
+11|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+11|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+99|MMI|0.46|Did you jog or run|C4722187|[inpr]|"Run"-text-0-"run"-NN-0|text|9/3|
+99|MMI|0.46|Does run (finding)|C0600140|[fndg]|"run"-text-0-"run"-NN-0|text|9/3|
+99|MMI|0.46|HHAT gene|C1539668|[gngm]|"ski"-text-0-"ski"-NN-0|text|5/3|
+99|MMI|0.46|Manufactured ski|C0301560|[mnob]|"ski"-text-0-"ski"-NN-0|text|5/3|
+99|MMI|0.46|Run action|C1704688|[ftcn]|"Run"-text-0-"run"-NN-0|text|9/3|
+99|MMI|0.46|Rundi language|C0574467|[lang]|"RUN"-text-0-"run"-NN-0|text|9/3|
+99|MMI|0.46|Running (physical activity)|C0035953|[dora]|"run"-text-0-"run"-NN-0|text|9/3|
+99|MMI|0.46|SKI gene|C0812379|[gngm]|"SKI"-text-0-"ski"-NN-0|text|5/3|
+13|MMI|1.84|Neighborhood|C0027569|[geoa]|"Neighborhood"-text-0-"neighborhood"-NN-0|text|22/12|x.x.x.x
+13|MMI|0.46|Near|C1706276|[qlco]|"Near"-text-0-"near"-IN-0|text|17/4|
+13|MMI|0.46|Residential|C5142976|[qlco]|"Residential"-text-0-"Residential"-JJ-0|text|0/11|
+13|MMI|0.46|Road|C0442650|[mnob]|"Road"-text-0-"road"-NN-0|text|12/4|
+14|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"Bedroom"-NN-0|text|0/7|
+15|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+16|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"Bedroom"-NN-0|text|0/7|
+17|MMI|1.38|Brain|C0006104|[bpoc]|"Brain"-text-0-"Brain"-NNP-0|text|0/5|A08.186.211
+17|MMI|1.38|Brain Diseases|C0006111|[dsyn]|"Brain"-text-0-"Brain"-NNP-0|text|0/5|C10.228.140
+17|MMI|0.46|health center|C0475309|[mnob, hcro]|"health center"-text-0-"Health Center"-NNP-0|text|6/13|
+18|MMI|0.46|Into|C0332286|[ftcn]|"Into"-text-0-"into"-IN-0|text|8/4|
+18|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|13/7|
+19|MMI|1.38|Back|C0004600|[blor]|"Back"-text-0-"back"-RB-0|text|0/4|A01.923.176
+19|MMI|0.46|Back structure, including back of neck|C0460009|[blor]|"Back"-text-0-"back"-RB-0|text|0/4|
+19|MMI|0.46|Dorsal|C0205095|[spco]|"Back"-text-0-"back"-RB-0|text|0/4|
+0|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"Home"-NN-0|text|0/4|
+0|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+0|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|5/7|
+0|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"Home"-NN-0|text|0/4|
+0|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+0|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"Home"-NN-0|text|0/4|
+0|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"Home"-NN-0|text|0/4|
+1|MMI|0.46|Alive|C4551704|[cnce]|"Living"-text-0-"living"-NN-0|text|0/6|
+1|MMI|0.46|Household composition|C0595998|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+1|MMI|0.46|Living|C4520849|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+1|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+1|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+2|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|0/7|
+3|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"Kitchen"-NN-0|text|0/7|
+5|MMI|0.46|Survey Yard|C2348617|[qnco]|"yard"-text-0-"Yard"-NNP-0|text|0/4|
+5|MMI|0.46|Yard British|C2349166|[qnco]|"yard"-text-0-"Yard"-NNP-0|text|0/4|
+5|MMI|0.46|yard (length)|C0439205|[qnco]|"Yard"-text-0-"Yard"-NNP-0|text|0/4|
+6|MMI|0.46|Shower (physical object)|C0541748|[mnob]|"shower"-text-0-"Shower"-NNP-0|text|0/6|
+7|MMI|0.46|Survey Yard|C2348617|[qnco]|"yard"-text-0-"Yard"-NNP-0|text|0/4|
+7|MMI|0.46|Yard British|C2349166|[qnco]|"yard"-text-0-"Yard"-NNP-0|text|0/4|
+7|MMI|0.46|yard (length)|C0439205|[qnco]|"Yard"-text-0-"Yard"-NNP-0|text|0/4|
+9|MMI|1.84|Dinner|C4048877|[dora]|"Dinner"-text-0-"dinner"-NN-0|text|17/6|x.x.x.x
+9|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"Kitchen"-NN-0|text|0/7|
+20|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"Bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+20|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"Bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+21|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|0/7|
+22|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|0/7|
+23|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+23|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+24|MMI|0.46|Alive|C4551704|[cnce]|"Living"-text-0-"living"-NN-0|text|0/6|
+24|MMI|0.46|Household composition|C0595998|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+24|MMI|0.46|Living|C4520849|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+24|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+24|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+25|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+25|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+26|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+26|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|0/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+27|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|0/7|
+28|MMI|0.46|Alive|C4551704|[cnce]|"Living"-text-0-"living"-NN-0|text|0/6|
+28|MMI|0.46|Household composition|C0595998|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+28|MMI|0.46|Living|C4520849|[fndg]|"Living"-text-0-"living"-NN-0|text|0/6|
+28|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+28|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|7/4|
+31|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|8/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+31|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|8/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+33|MMI|0.46|Ability to Use Stairs|C4329247|[inpr]|"Stairs"-text-0-"stairs"-NNS-0|text|8/6|
+34|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|0/7|
+35|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+36|MMI|0.46|Lot (entire collection)|C1518000|[qlco]|"Lot"-text-0-"lot"-NN-0|text|8/3|
+36|MMI|0.46|Lot Number|C1115660|[inpr]|"LOT"-text-0-"lot"-NN-0|text|8/3|
+36|MMI|0.46|Stock (in-store merchandise)|C1710198|[idcn]|"Lot"-text-0-"lot"-NN-0|text|8/3|
+36|MMI|0.46|hotel|C0442514|[mnob]|"hotel"-text-0-"hotel"-NN-0|text|15/5|
+36|MMI|0.46|nucleus of the lateral olfactory tract|C0175218|[bpoc]|"LOT"-text-0-"lot"-NN-0|text|8/3|
+37|MMI|0.46|garage|C0442640|[mnob]|"garage"-text-0-"garage"-NN-0|text|3/6|
+38|MMI|0.46|At home|C4534363|[fndg]|"At home"-text-0-"At home"-IN-0|text|0/7|
+38|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|17/7|
+39|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|17/7|
+39|MMI|0.46|master|C0444649|[qlco]|"master"-text-0-"Master"-NNP-0|text|10/6|
+40|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+41|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|6/7|
+42|MMI|0.46|Alive|C4551704|[cnce]|"Living"-text-0-"living"-NN-0|text|15/6|
+42|MMI|0.46|At home|C4534363|[fndg]|"At home"-text-0-"At home"-IN-0|text|0/7|
+42|MMI|0.46|Household composition|C0595998|[fndg]|"Living"-text-0-"living"-NN-0|text|15/6|
+42|MMI|0.46|Living|C4520849|[fndg]|"Living"-text-0-"living"-NN-0|text|15/6|
+42|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|22/4|
+42|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|22/4|
+43|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|7/7|
+44|MMI|0.46|Alive|C4551704|[cnce]|"Living"-text-0-"living"-NN-0|text|20/6|
+44|MMI|0.46|Household composition|C0595998|[fndg]|"Living"-text-0-"living"-NN-0|text|20/6|
+44|MMI|0.46|Intermediate|C0205103|[spco]|"Between"-text-0-"between"-IN-0|text|8/7|
+44|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|39/7|
+44|MMI|0.46|Living|C4520849|[fndg]|"Living"-text-0-"living"-NN-0|text|20/6|
+44|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|27/4|
+44|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|27/4|
+45|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|0/7|
+46|MMI|0.46|garage|C0442640|[mnob]|"garage"-text-0-"Garage"-NN-0|text|0/6|
+47|MMI|0.46|Laundry|C1830412|[dora]|"Laundry"-text-0-"laundry"-NN-0|text|6/7|
+47|MMI|0.46|Laundry:-:Point in time:^Patient:-|C1830411|[clna]|"Laundry"-text-0-"laundry"-NN-0|text|6/7|
+47|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|14/4|
+47|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|14/4|
+48|MMI|0.46|STEPS to Enhance Physical Activity|C4722257|[hlca]|"STEPS"-text-0-"steps"-NNS-0|text|4/5|
+48|MMI|0.46|Step (specific stage)|C1261552|[cnce]|"steps"-text-0-"steps"-NNS-0|text|4/5|
+48|MMI|0.46|Step Unit of Distance|C3814463|[qnco]|"STEPS"-text-0-"steps"-NNS-0|text|4/5|
+49|MMI|6.45|Bathroom|C0556989|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|3/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+49|MMI|6.45|Toilet Facilities|C0040364|[mnob]|"Bathroom"-text-0-"bathroom"-NN-0|text|3/8|N06.850.860.510.490;J03.962;N06.850.780.200.800.800.795
+51|MMI|0.46|Dressing Ability|C4318652|[inpr]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing Dosage Form|C1705365|[bodm]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing Dosing Unit|C4723633|[qnco]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing of skin or wound|C0278286|[topp]|"dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing self-care|C0518459|[fndg]|"dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing- activity of daily living|C1305428|[dora]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Dressing:Find:Pt:^Patient:Nom|C4285241|[clna]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Medical dressing|C0013119|[medd]|"Dressing"-text-0-"dressing"-NN-0|text|7/8|
+51|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+51|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|16/4|
+51|MMI|0.46|dress garment|C0453926|[mnob]|"dressing"-text-0-"dressing"-NN-0|text|7/8|
+52|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|0/7|
+53|MMI|0.46|Into|C0332286|[ftcn]|"Into"-text-0-"into"-IN-0|text|7/4|
+53|MMI|0.46|Laundry|C1830412|[dora]|"Laundry"-text-0-"laundry"-NN-0|text|16/7|
+53|MMI|0.46|Laundry:-:Point in time:^Patient:-|C1830411|[clna]|"Laundry"-text-0-"laundry"-NN-0|text|16/7|
+53|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|24/4|
+53|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|24/4|
+54|MMI|0.46|All of the Time|C3812891|[fndg]|"Always"-text-4-"always"-RB-0|text|43/6|
+54|MMI|0.46|Always (AcknowledgementCondition)|C1549493|[idcn]|"Always"-text-4-"always"-RB-0|text|43/6|
+54|MMI|0.46|Always (frequency)|C2003902|[tmco]|"Always"-text-4-"always"-RB-0|text|43/6|
+54|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|7/7|
+54|MMI|0.46|Laundry|C1830412|[dora]|"Laundry"-text-0-"laundry"-NN-0|text|22/7|
+54|MMI|0.46|Laundry:-:Point in time:^Patient:-|C1830411|[clna]|"Laundry"-text-0-"laundry"-NN-0|text|22/7|
+54|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|30/4|
+54|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|30/4|
+55|MMI|1.38|Back|C0004600|[blor]|"Back"-text-0-"back"-JJ-0|text|19/4|A01.923.176
+55|MMI|0.46|Back structure, including back of neck|C0460009|[blor]|"Back"-text-0-"back"-JJ-0|text|19/4|
+55|MMI|0.46|Door (physical object)|C0557698|[mnob]|"Door"-text-0-"door"-NN-0|text|24/4|
+55|MMI|0.46|Dorsal|C0205095|[spco]|"Back"-text-0-"back"-JJ-0|text|19/4|
+55|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|4/7|
+56|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|7/7|
+57|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"Home"-NN-0|text|0/4|
+57|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+57|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"Home"-NN-0|text|0/4|
+57|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"Home"-NN-0|text|0/4|
+57|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"Home"-NN-0|text|0/4|
+57|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"Home"-NN-0|text|0/4|
+58|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"Kitchen"-NN-0|text|0/7|
+59|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+60|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"Kitchen"-NN-0|text|0/7|
+61|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+62|MMI|1.84|Daughter|C0011011|[famg]|"Daughter"-text-0-"Daughter's"-NNP-0|text|0/10|x.x.x.x
+62|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|11/7|
+63|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"outside"-IN-0|text|0/7|
+65|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"Kitchen"-NN-0|text|0/7|
+67|MMI|0.46|court|C0178572|[orgt]|"court"-text-0-"court"-NN-0|text|23/5|
+68|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|0/7|
+69|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"home"-NN-0|text|0/4|
+69|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+69|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"home"-NN-0|text|0/4|
+69|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+69|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"home"-NN-0|text|0/4|
+69|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"home"-NN-0|text|0/4|
+70|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"home"-NN-0|text|0/4|
+74|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"Room"-NNP-0|text|7/4|
+74|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"Room"-NNP-0|text|7/4|
+75|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+76|MMI|0.46|Door (physical object)|C0557698|[mnob]|"Door"-text-0-"door"-NN-0|text|38/4|
+76|MMI|0.46|From|C1517320|[qlco]|"From"-text-0-"from"-IN-0|text|10/4|
+76|MMI|0.46|Kitchen|C0557653|[mnob]|"Kitchen"-text-0-"kitchen"-NN-0|text|30/7|
+77|MMI|4.14|Gardening|C0868963|[dora]|"garden"-text-0-"garden"-NN-0|text|9/6|J01.040.498.500;I03.450.642.581.500
+77|MMI|2.30|Gardens|C4019428|[qlco]|"Garden"-text-0-"garden"-NN-0|text|9/6|J03.320;J01.040.415
+77|MMI|1.84|Sister|C0337514|[famg]|"Sister"-text-0-"Sister's"-NN-0|text|0/8|x.x.x.x
+77|MMI|0.46|Relationship - Sister|C1546515|[cnce]|"Sister"-text-0-"Sister's"-NN-0|text|0/8|
+77|MMI|0.46|Sister - courtesy title|C1704647|[cnce]|"Sister"-text-0-"Sister's"-NN-0|text|0/8|
+78|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|7/7|
+79|MMI|0.46|Data Table|C1706074|[inpr]|"table"-text-0-"table"-NN-0|text|13/5|
+79|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|30/4|
+79|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|30/4|
+79|MMI|0.46|Sundanese language|C0574382|[lang]|"SUN"-text-0-"sun"-NN-0|text|26/3|
+79|MMI|0.46|Table - furniture|C0039224|[mnob]|"Table"-text-0-"table"-NN-0|text|13/5|
+79|MMI|0.46|The Sun|C0376223|[geoa]|"Sun"-text-0-"sun"-NN-0|text|26/3|
+100|MMI|0.46|Did you jog or run|C4722187|[inpr]|"Run"-text-0-"run"-NN-0|text|9/3|
+100|MMI|0.46|Does run (finding)|C0600140|[fndg]|"run"-text-0-"run"-NN-0|text|9/3|
+100|MMI|0.46|HHAT gene|C1539668|[gngm]|"ski"-text-0-"ski"-NN-0|text|5/3|
+100|MMI|0.46|Manufactured ski|C0301560|[mnob]|"ski"-text-0-"ski"-NN-0|text|5/3|
+100|MMI|0.46|Run action|C1704688|[ftcn]|"Run"-text-0-"run"-NN-0|text|9/3|
+100|MMI|0.46|Rundi language|C0574467|[lang]|"RUN"-text-0-"run"-NN-0|text|9/3|
+100|MMI|0.46|Running (physical activity)|C0035953|[dora]|"run"-text-0-"run"-NN-0|text|9/3|
+100|MMI|0.46|SKI gene|C0812379|[gngm]|"SKI"-text-0-"ski"-NN-0|text|5/3|
+101|MMI|0.46|Did you jog or run|C4722187|[inpr]|"Run"-text-0-"run"-NN-0|text|9/3|
+101|MMI|0.46|Does run (finding)|C0600140|[fndg]|"run"-text-0-"run"-NN-0|text|9/3|
+101|MMI|0.46|HHAT gene|C1539668|[gngm]|"ski"-text-0-"ski"-NN-0|text|5/3|
+101|MMI|0.46|Manufactured ski|C0301560|[mnob]|"ski"-text-0-"ski"-NN-0|text|5/3|
+101|MMI|0.46|Run action|C1704688|[ftcn]|"Run"-text-0-"run"-NN-0|text|9/3|
+101|MMI|0.46|Rundi language|C0574467|[lang]|"RUN"-text-0-"run"-NN-0|text|9/3|
+101|MMI|0.46|Running (physical activity)|C0035953|[dora]|"run"-text-0-"run"-NN-0|text|9/3|
+101|MMI|0.46|SKI gene|C0812379|[gngm]|"SKI"-text-0-"ski"-NN-0|text|5/3|
+102|MMI|0.46|Ability to Use Stairs|C4329247|[inpr]|"Stairs"-text-0-"stairs"-NNS-0|text|15/6|
+102|MMI|0.46|flight (process)|C2610507|[phpr]|"flight"-text-0-"flight"-NN-0|text|5/6|
+103|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"outside"-IN-0|text|0/7|
+104|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|0/7|
+105|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-IN-0|text|0/7|
+106|MMI|0.46|Address type - Home|C1549632|[idcn]|"Home"-text-0-"home"-NN-0|text|0/4|
+106|MMI|0.46|Home environment|C0442519|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+106|MMI|0.46|Organization unit type - Home|C1547197|[orgt]|"Home"-text-0-"home"-NN-0|text|0/4|
+106|MMI|0.46|Person location type - Home|C1548530|[spco]|"Home"-text-0-"home"-NN-0|text|0/4|
+106|MMI|0.46|Visit User Code - Home|C1548341|[inpr]|"Home"-text-0-"home"-NN-0|text|0/4|
+106|MMI|0.46|home health encounter|C1553498|[hlca]|"Home"-text-0-"home"-NN-0|text|0/4|
+80|MMI|2.76|Libraries|C0023621|[orgt, mnob]|"Library"-text-0-"library"-NN-0|text|28/7|J03.400.596;L01.346.596
+80|MMI|1.84|DNA Library|C0872147|[nnon, gngm]|"Library"-text-0-"library"-NN-0|text|28/7|x.x.x.x
+80|MMI|1.84|Sitting position|C0277814|[fndg]|"Sitting"-text-0-"sitting"-NN-0|text|15/7|G11.427.695.575
+80|MMI|1.84|cDNA Library|C0751608|[nnon, gngm]|"Library"-text-0-"library"-NN-0|text|28/7|x.x.x.x
+80|MMI|0.46|Ability to Sit question|C4050224|[inpr]|"Sitting"-text-0-"sitting"-NN-0|text|15/7|
+80|MMI|0.46|At home|C4534363|[fndg]|"At home"-text-0-"At home"-IN-0|text|0/7|
+80|MMI|0.46|Room|C1547703|[spco]|"Room"-text-0-"room"-NN-0|text|23/4|
+80|MMI|0.46|Room - Patient location type|C1547120|[spco]|"Room"-text-0-"room"-NN-0|text|23/4|
+80|MMI|0.46|Sitting Function|C2584297|[phsf]|"Sitting"-text-0-"sitting"-NN-0|text|15/7|
+107|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"outside"-NN-0|text|6/7|
+107|MMI|0.46|hotel|C0442514|[mnob]|"hotel"-text-0-"hotel"-NN-0|text|0/5|
+81|MMI|0.46|At home|C4534363|[fndg]|"At home"-text-0-"At home"-IN-0|text|0/7|
+81|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|22/7|
+81|MMI|0.46|master|C0444649|[qlco]|"master"-text-0-"master"-NN-0|text|15/6|
+108|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|0/7|
+82|MMI|1.84|Standing position|C0231472|[spco]|"Standing"-text-0-"standing"-NN-0|text|8/8|G11.427.695.600
+82|MMI|0.46|Extrinsic|C0205101|[spco]|"Outside"-text-0-"Outside"-JJ-0|text|0/7|
+109|MMI|1.84|Sister|C0337514|[famg]|"Sister"-text-0-"sister's"-NN-0|text|0/8|x.x.x.x
+109|MMI|0.46|Relationship - Sister|C1546515|[cnce]|"Sister"-text-0-"sister's"-NN-0|text|0/8|
+109|MMI|0.46|Sister - courtesy title|C1704647|[cnce]|"Sister"-text-0-"sister's"-NN-0|text|0/8|
+109|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|9/7|
+83|MMI|0.46|Laundry|C1830412|[dora]|"Laundry"-text-4-"laundry"-NN-0|text|43/7|
+83|MMI|0.46|Laundry:-:Point in time:^Patient:-|C1830411|[clna]|"Laundry"-text-4-"laundry"-NN-0|text|43/7|
+83|MMI|0.46|master|C0444649|[qlco]|"master"-text-0-"master"-NN-0|text|13/6|
+84|MMI|1.84|BORNHOLM EYE DISEASE|C3159311|[dsyn]|"BED"-text-10-"bed"-NN-0|text|59/3|x.x.x.x
+84|MMI|1.38|Beds|C0004916|[mnob]|"Bed"-text-10-"bed"-NN-0|text|59/3|E07.325.220
+84|MMI|0.46|Bachelor of Education|C2346952|[inpr]|"BEd"-text-10-"bed"-NN-0|text|59/3|
+84|MMI|0.46|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-8-"for"-IN-0|text|55/3|
+84|MMI|0.46|Patient Location - Bed|C1547114|[spco]|"Bed"-text-10-"bed"-NN-0|text|59/3|
+84|MMI|0.46|Preposition For|C0521125|[qlco]|"For"-text-8-"for"-IN-0|text|55/3|
+84|MMI|0.46|WWOX gene|C1421525|[gngm]|"FOR"-text-8-"for"-IN-0|text|55/3|
+84|MMI|0.46|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-8-"for"-IN-0|text|55/3|
+84|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-0-"bedroom"-NN-0|text|23/7|
+85|MMI|0.46|Anterior|C0205094|[spco]|"front"-text-0-"front"-JJ-0|text|30/5|
+85|MMI|0.46|Door (physical object)|C0557698|[mnob]|"Door"-text-1-"door"-NN-0|text|36/4|
+85|MMI|0.46|From|C1517320|[qlco]|"From"-text-0-"from"-IN-0|text|21/4|
+85|MMI|0.46|Home environment|C0442519|[spco]|"house"-text-0-"house"-NN-0|text|6/5|
+85|MMI|0.46|House (environment)|C2003847|[mnob]|"House"-text-0-"house"-NN-0|text|6/5|
+85|MMI|0.46|bedroom|C0557652|[mnob]|"bedroom"-text-9-"bedroom"-NN-0|text|55/7|
+85|MMI|0.46|master|C0444649|[qlco]|"master"-text-7-"master"-NN-0|text|48/6|
+86|MMI|0.46|walk-in - encounter referral source|C1551030|[fndg]|"walk-in"-text-0-"walk-in"-NN-0|text|7/7|
+
